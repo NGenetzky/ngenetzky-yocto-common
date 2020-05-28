@@ -1,0 +1,4 @@
+[submodule "submodules/yoctoproject/bitbake"]
+	path = submodules/yoctoproject/bitbake
+	url = https://git.openembedded.org/bitbake
+	branch = 1.40
