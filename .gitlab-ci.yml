@@ -1,0 +1,6 @@
+image: kasproject/kas:latest
+
+poky-2.6-thud-qemux86-64:
+  stage: build
+  script:
+    - kas build 'conf/poky-2.6-thud-qemux86-64.yml'
