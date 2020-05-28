@@ -6,3 +6,6 @@
 	path = submodules/yoctoproject/yocto-autobuilder-helper
 	url = https://git.yoctoproject.org/git/yocto-autobuilder-helper
 	branch = thud
+[submodule "layers/ngenetzky/meta-genet"]
+	path = layers/ngenetzky/meta-genet
+	url = https://github.com/NGenetzky/meta-genet.git
