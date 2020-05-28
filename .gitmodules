@@ -9,3 +9,6 @@
 [submodule "layers/ngenetzky/meta-genet"]
 	path = layers/ngenetzky/meta-genet
 	url = https://github.com/NGenetzky/meta-genet.git
+[submodule "layers/ngenetzky/meta-bb-project-base"]
+	path = layers/ngenetzky/meta-bb-project-base
+	url = https://gitlab.com/ngenetzky/meta-bb-project-base.git
