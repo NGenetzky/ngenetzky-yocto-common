@@ -12,3 +12,6 @@
 [submodule "layers/ngenetzky/meta-bb-project-base"]
 	path = layers/ngenetzky/meta-bb-project-base
 	url = https://gitlab.com/ngenetzky/meta-bb-project-base.git
+[submodule "layers/ngenetzky/meta-bb-ngenetzky"]
+	path = layers/ngenetzky/meta-bb-ngenetzky
+	url = https://gitlab.com/ngenetzky/meta-bb-ngenetzky.git
