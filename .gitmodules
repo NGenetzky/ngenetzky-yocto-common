@@ -21,3 +21,7 @@
 [submodule "submodules/kas"]
 	path = submodules/kas
 	url = https://github.com/siemens/kas.git
+[submodule "layers/ngenetzky/meta-bb-dockerbake"]
+	path = layers/ngenetzky/meta-bb-dockerbake
+	url = https://github.com/NGenetzky/meta-ngenetzky.git
+	branch = bb/dockerbake
