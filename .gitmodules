@@ -25,3 +25,6 @@
 	path = layers/deby
 	url = https://gitlab.com/ngenetzky/deby.git
 	branch = cip-core-buster
+[submodule "submodules/isar"]
+	path = submodules/isar
+	url = https://github.com/ilbers/isar.git
