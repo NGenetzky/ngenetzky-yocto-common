@@ -21,3 +21,7 @@
 [submodule "submodules/kas"]
 	path = submodules/kas
 	url = https://github.com/siemens/kas.git
+[submodule "layers/deby"]
+	path = layers/deby
+	url = https://gitlab.com/ngenetzky/deby.git
+	branch = cip-core-buster
